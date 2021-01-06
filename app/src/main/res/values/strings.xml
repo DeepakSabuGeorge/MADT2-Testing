@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MADT2</string>
+    <string-array name="Selection_Opt">
+        <item>Characters</item>
+        <item>Words</item>
+    </string-array>
+</resources>
